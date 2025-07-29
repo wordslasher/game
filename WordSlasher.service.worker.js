@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1753529689|9882481598';
+const CACHE_VERSION = '1753830462|1113077031';
 /** @type {string} */
 const CACHE_PREFIX = 'WordSlasher-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
